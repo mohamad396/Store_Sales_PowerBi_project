@@ -1,1 +1,1 @@
-# Store_Sales_PowerBi_project
+# Ecommerce_Sales_PowerBi_project
